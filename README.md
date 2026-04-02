@@ -2,10 +2,8 @@
 💜 IT Undergrad | AI/ML Enthusiast<br>☂️ MERN Stack Developer<br>🔮 Python • C++ • SQL<br>🦄 ML Projects <br>🍇 Google • AWS • Microsoft Certified<br>🪻 Data Analytics + Full Stack<br>🎵 Open to Internships<br>
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MISTYCQ&theme=aura)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MISTYCQ&theme=aura&no-frame=true&no-bg=true&margin-w=6"/>
-</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/subhomita-chatterjee-439550254) 
